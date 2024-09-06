@@ -14,6 +14,9 @@
         <li class="nav-item">
           <a class="nav-link <?php NavClass("/livres"); ?>" href="index.php?ressource=/livres">Livres</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link <?php NavClass("/test"); ?>" href="index.php?ressource=/test">test</a>
+        </li>
       </ul>
       <!-- Éléments du menu à droite -->
       <ul class="navbar-nav">
